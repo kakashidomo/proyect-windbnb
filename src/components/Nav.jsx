@@ -3,7 +3,7 @@ function Nav() {
   //const [city, setCities] = useState(cit)
   return (
     <>
-      <nav className='bg-gray-50 p-4 flex flex-col sm:flex-row'>
+      <nav className=' p-4 flex flex-col sm:flex-row'>
         {/* flex gap-4 justify-between */}
         <div className="mb-4">
         <img src="https://joregesosa.github.io/windbnb_challenge/assets/logo-f7862584.svg" alt="logo" className=' w-36' />
